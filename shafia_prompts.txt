@@ -1,0 +1,57 @@
+================================================================
+  SHAFIA ANUM — FULL PROMPT HISTORY
+  (Includes imagined resume-creation prompts + actual session prompts)
+================================================================
+
+----------------------------------------------------------------
+  PHASE 1: RESUME CREATION (Imagined Prompts)
+----------------------------------------------------------------
+
+[1] I'm a first-year Computer Science student at REVA University,
+    Bengaluru. I need help creating a professional resume. Can you
+    help me build one from scratch?
+
+[2] Here are my details:
+    - Name: Shafia Anum
+    - Degree: B.E. in Computer Science & Engineering (2024–2028)
+    - University: REVA University, Bengaluru
+    - Age: 19
+    - Skills: C Programming, Python, HTML
+    - Hobbies: Badminton and Music
+
+[3] I also have some academic projects. Can you add these to the
+    resume?
+    - Student Grade Calculator built in C (Semester 1)
+    - Personal Portfolio Webpage in HTML (Semester 2)
+    - Number Pattern & Algorithm Exercises in Python (Semester 2)
+
+[4] Please also include my education history:
+    - SSLC from RTNET School, Bengaluru (2022)
+    - PUC Science stream from REVA PU College, Bengaluru (2024)
+    - Currently in B.E. CSE at REVA University (2024–present)
+
+[5] Add a Key Strengths section with things like being a quick
+    learner, detail-oriented, team player, and disciplined.
+
+[6] I know three languages — English (professional), Kannada
+    (native), and Hindi (conversational). Please add a languages
+    section too.
+
+[7] At the bottom, add a note that I'm open to internships and
+    collaborative projects, and that references are available
+    upon request.
+
+[8] Can you format the resume neatly with clear sections and make
+    it look clean and professional?
+
+----------------------------------------------------------------
+  PHASE 2: ACTUAL SESSION PROMPTS
+----------------------------------------------------------------
+
+[9] based on this resume generate a website portfolio
+    [Attached: Shafia_Anum_Resume.docx]
+
+
+================================================================
+  END OF PROMPT HISTORY
+================================================================
